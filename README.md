@@ -4,8 +4,12 @@ Facial recognition application that counts faces in uploaded pictures. 👨‍�
 ### take a look:
 ![smartyPantsRegister.PNG](./smartypants-pics/smartyPantsRegister.PNG)
 
+####Sign In Page
 ![smartyPantsSignIn.PNG](./smartypants-pics/smartyPantsSignIn.PNG)
 
+####Detection Page
 ![smartyPantsDetectPage.PNG](./smartypants-pics/smartyPantsDetectPage.PNG)
 
+
+####Face Detected with Face Outlined
 ![smartyPantsFaceDetected.PNG](./smartypants-pics/smartyPantsFaceDetected.PNG)
